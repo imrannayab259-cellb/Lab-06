@@ -1,2 +1,2 @@
-# Lab-6
+# Lab-6 Nayab Imran
 Its my practice repository
