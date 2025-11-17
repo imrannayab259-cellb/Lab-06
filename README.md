@@ -1,2 +1,2 @@
-# Lab-06
+# Lab-6
 Its my practice repository
